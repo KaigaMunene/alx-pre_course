@@ -6,6 +6,7 @@
 + Add the required files in them
 
 # What i have learn't
++ To use various commands in Ubuntu terminal
 + How to commit changes
 + How to push changes to github
 + How to create a branch
