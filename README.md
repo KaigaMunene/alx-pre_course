@@ -1,5 +1,6 @@
 # My first Repo in the ALX SOFTWARE ENGINEERING program
 
+# The objectives
 + Create a directory called 0x01-git
 + In it create bash, c, js directories
 + Add the required files in them
